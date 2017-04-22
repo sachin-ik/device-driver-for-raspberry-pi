@@ -1,0 +1,1 @@
+cmd_/home/pi/Desktop/Blinker_updated/blinker/blinker.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/pi/Desktop/Blinker_updated/blinker/blinker.ko /home/pi/Desktop/Blinker_updated/blinker/blinker.o /home/pi/Desktop/Blinker_updated/blinker/blinker.mod.o
